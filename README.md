@@ -1,3 +1,3 @@
 - Blogs
 
--[x] How WhatsApp End-to-End encryption works?
+- [x] How WhatsApp End-to-End encryption works?
